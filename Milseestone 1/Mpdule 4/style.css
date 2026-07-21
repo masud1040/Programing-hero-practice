@@ -1,0 +1,57 @@
+.container{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} 
+
+div{
+    font-size: 2rem;
+}
+
+.box{
+    border: 2px solid green;
+    height: 40px;
+}
+.user{
+    border: 2px solid red ;
+}
+.user-container{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.img-container{
+    display:flex;
+    height: 500px;
+    border: 3px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    border: 3px solid red;
+    height: 100px;
+}
+nav{
+    background-color: beige;
+    height: 40px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+  
+}
+nav ul li {
+    margin-right: 20px;
+    padding: 8px;
+}
+
+nav ul li:hover{
+    background-color: aquamarine;
+}
+nav ul li a{
+    text-decoration: none;
+
+    
+}
