@@ -28,7 +28,8 @@
     let total= cart.reduce((acc,ele)=>{
         return  acc+(ele.price* ele.qty)
     },0)
-return total
+
+return `total ammout ${total}`
  }
 
  let cart = [
