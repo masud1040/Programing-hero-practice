@@ -1,5 +1,4 @@
 
-
 /*
   Problem 2: Shopping Cart Total (reduce)
   getCartTotal(cart) — sum price * qty across every item in the cart
