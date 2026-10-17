@@ -321,9 +321,9 @@ Throughout this journey, I am learning modern frontend and backend technologies 
 | 02  | Assignment 02 | **60** 🏆 | ✅ Completed |
 | 03  | Assignment 03 | **60** 🏆 | ✅ Completed |
 | 04  | Assignment 04 |  **60**   | ✅ Completed |
-| 05  | Assignment 05 |         — | ⏳ Pending   |
-| 06  | Assignment 06 |         — | ⏳ Pending   |
-| 07  | Assignment 07 |         — | ⏳ Pending   |
+| 05  | Assignment 05 |   **60** | ✅ Completed |
+| 06  | Assignment 06 |    **60** | ✅ Completed |
+| 07  | Assignment 07 |    **60** | ✅ Completed |
 | 08  | Assignment 08 |         — | ⏳ Pending   |
 | 09  | Assignment 09 |         — | ⏳ Pending   |
 | 10  | Assignment 10 |         — | ⏳ Pending   |
